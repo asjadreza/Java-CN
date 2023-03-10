@@ -9,7 +9,7 @@ public class Array1 {
         int[] arr = new int[n];
         arr[3] = 15;
         System.out.println(arr[3]);
-        System.out.println(arr[5]); // unassigned element in array is void(0)
+        // System.out.println(arr[5]); // unassigned element in array is void(0)
 
         // character array
         char[] charArray = new char[10];
